@@ -1,0 +1,102 @@
+body {
+  width: 99%;
+  height: 900px;
+  background: url("https://ae01.alicdn.com/kf/HTB14GXbXsrrK1Rjy1zeq6xalFXap/beibehang-Custom-size-Hand-painted-classic-brick-wall-paper-delicious-burger-fast-food-restaurant-tooling-background.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+  
+  #top-bar {
+    margin-top: 28px;
+  }
+  
+  .spacing-reset {
+    padding: 0;
+    margin: 0;
+    border: 0;
+  }
+  
+  .list-reset {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    border: 0;
+  }
+  
+  @media (min-width: 1200px) {
+    .container {
+      width: 990px;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .container {
+      width: 990px;
+    }
+  }
+  
+  .enter_section {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  #enter_text {
+    width: 400px;
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    font-size: 38px;
+  }
+  
+  .task {
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    background-color: black;
+    text-decoration-color: gold;
+  }
+
+  
+  .button-size {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #2979bf;
+    background-color: #e31d0f;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+
+  .button-size:hover {background-color: #c8360d}
+
+  .button-size:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+  #text-enter-button {
+    margin-top: 10px;
+    margin-bottom: 18px;
+  }
+
+  #text-enter-button:active {
+    transform: rotate(360deg);
+  }
+  
+  h1 {
+    color: #f30;
+  }
+
+  p {
+    content: white;
+  }
