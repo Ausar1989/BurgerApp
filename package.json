@@ -4,8 +4,8 @@
   "description": "",
   "main": "main.handlebars",
   "engines": {
-    "node": "16.x",
-    "npm": "9.x"
+    "node": "16.6.0",
+    "npm": "9.6.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
