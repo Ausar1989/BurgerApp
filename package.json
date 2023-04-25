@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.handlebars",
   "engines": {
-    "node": "16.6.0",
+    "node": "16.16.0",
     "npm": "9.6.4"
   },
   "scripts": {
