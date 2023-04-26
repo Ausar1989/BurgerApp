@@ -2,7 +2,7 @@
   "name": "burgerapp",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "engines": {
     "node": "16.16.0",
     "npm": "9.6.4"
